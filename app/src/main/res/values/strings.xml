@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Holotify</string>
+    <string name="open">Mở menu</string>
+    <string name="close">Đóng menu</string>
+</resources>

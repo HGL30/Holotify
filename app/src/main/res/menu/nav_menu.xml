@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home" android:title="Trang chủ" />
+    <item android:id="@+id/nav_favorites" android:title="Yêu thích" />
+    <item android:id="@+id/nav_history" android:title="Lịch sử nghe" />
+    <item android:id="@+id/nav_playlist" android:title="Danh sách phát" />
+    <item android:id="@+id/nav_settings" android:title="Cài đặt" />
+    <item android:id="@+id/nav_logout" android:title="Đăng xuất" />
+</menu>
+
+<!--    android:icon="@drawable/ic_home"-->
+<!--    android:icon="@drawable/ic_favorite"-->
+<!--    android:icon="@drawable/ic_history"-->
+<!--    android:icon="@drawable/ic_playlist"-->
+<!--    android:icon="@drawable/ic_admin"-->
+<!--    android:icon="@drawable/ic_logout"-->
